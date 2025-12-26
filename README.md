@@ -15,6 +15,7 @@ This project is created for **practice and learning** purposes.
 
 ## ▶️ How to Run
 Open `index.html` in a web browser.
+
 <img width="500" height="400" alt="Screenshot 2025-12-26 130659" src="https://github.com/user-attachments/assets/af70a544-7872-489e-a6b6-3c5e087dfe82" />
 <img width="500" height="400" alt="Screenshot 2025-12-26 130724" src="https://github.com/user-attachments/assets/48be40ff-2b55-4ef1-89d3-874b5d2ca264" />
 
